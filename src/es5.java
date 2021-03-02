@@ -4,7 +4,7 @@ public class es5 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int val = 0, sum = 0, N = 0;
+        int val, sum = 0, N = 0;
         float avr = 0;
 
         do {
