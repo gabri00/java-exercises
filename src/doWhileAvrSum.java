@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class es5 {
+public class doWhileAvrSum {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

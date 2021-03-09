@@ -28,9 +28,8 @@ public class array2DSum {
         // Print matrix
         System.out.println("Matrix:");
         for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
+            for (int j = 0; j < cols; j++)
                 System.out.print(m[i][j] + " ");
-            }
             System.out.println();
         }
 
