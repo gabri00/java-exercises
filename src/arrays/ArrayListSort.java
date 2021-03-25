@@ -16,7 +16,7 @@ public class ArrayListSort {
         // Declare ArrayList of size N
         // Integer is a wrapper class for int data type,
         // because ArrayList requires a class, not a type
-        ArrayList<Integer> v = new ArrayList<Integer>(N);
+        ArrayList<Integer> v = new ArrayList<>(N);
 
         // Input array values
         for (int i = 0; i < N; i++) {

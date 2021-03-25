@@ -1,7 +1,6 @@
 package strings;
 
 import java.util.Scanner;
-import java.util.Vector;
 
 public class words_in_string {
     public static void main(String[] args) {

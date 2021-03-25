@@ -71,12 +71,11 @@ public class array_vector_arrayList {
         System.out.println("ArrayList dim: " + v.size());
 
         v.remove(1);
-        Integer n = new Integer(10);
+        Integer n = 10; // or Integer n = new Integer(10);
         v.remove(n);
 
         System.out.print("ArrayList: ");
-        for (int i = 0; i < v.size(); i++)
-            System.out.print(" " + v.get(i));
+        for (Integer el : v) System.out.print(" " + el);
         System.out.println();
     }
 
