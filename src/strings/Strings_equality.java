@@ -1,6 +1,8 @@
+package strings;
+
 import java.util.Scanner;
 
-public class TestString {
+public class Strings_equality {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);	
 		String text1 = in.nextLine();
