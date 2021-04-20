@@ -1,4 +1,4 @@
-package classes;
+package classes.complexN;
 
 // This class is not instantiable, because it contains the main method.
 public class useComplex {
